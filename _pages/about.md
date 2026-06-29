@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a computational biologist with over a decade of experience in statistical modeling and computational biology, focused on translating multi-omics data into molecular insights that can move drug discovery forward.
+I'm a computational biologist with over a decade of experience using statistical modeling and computational biology to tackle some of medicine's toughest questions. I spend most of my time making sense of massive biological datasets -- think genomics, proteomics, and single-cell data -- to understand what's really driving neurodegenerative diseases at a molecular level.
 
-Currently at Beth Israel Deaconess Medical Center, I conduct integrative analyses of neurodegeneration disorders using GWAS, multi-omics, and single-cell approaches — with the goal of identifying causal proteins and pathways that can serve as tractable therapeutic targets. My background spans statistical modeling, bioinformatics, and longitudinal data integration, and I have hands-on experience with PLINK, Slurm/HPC, Python, R, and a range of omics analysis frameworks to derive mechanistic insights from large-scale datasets. I work closely with physician-scientists to translate complex analytical findings into biologically meaningful insights that inform clinical research and therapeutic development.
+Currently at Beth Israel Deaconess Medical Center, I build pipelines to identify causal proteins, train predictive models, and conduct multi-omics analyses to identify biomarkers and pathways that can serve as tractable therapeutic targets. What I love most about my work is that moment when the data starts telling a real biological story -- like tracing a causal protein back to a disease mechanism that could one day inform a treatment.
 
-I'm drawn to work where rigorous data science meets biological meaning — and where the output can genuinely inform clinical development. Open to conversations about genetics-informed discovery, translational research, and the future of precision medicine.
+I got my start in biostatistics and have since built up expertise across bioinformatics, systems biology, and machine learning. I did my graduate training at Johns Hopkins, and my research journey has taken me from Taiwan to Baltimore to Boston. I'm fluent in Python, R, and shell scripting, and I'm happiest when I'm knee-deep in a challenging dataset on an HPC cluster.
+
+In my free time, I enjoy hiking, reading, playing board games with friends, and catching the latest movies.
